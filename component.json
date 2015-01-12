@@ -1,0 +1,9 @@
+{
+    "repos": "https://github.com/Krinkle/jquery-json.git",
+    "version": "v2.5.1",
+    "name": "jquery-json",
+    "main": "jquery.json.js",
+    "dependencies": [
+        "jquery@>=1.6"
+    ]
+}
