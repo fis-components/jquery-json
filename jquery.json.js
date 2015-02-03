@@ -1,4 +1,4 @@
-require('jquery');
+var jQuery = require('jquery');
 /**
  * jQuery JSON plugin v2.5.1
  * https://github.com/Krinkle/jquery-json
